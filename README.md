@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rasica Topno</h1>
-<h3 align="center">Data Analyst enthusiast|Data Visualization|Python programmer|Statistical Analysis.</h3>
+<h3 align="center">Data Analyst enthusiast || Data Visualization || Python programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joeyr05&label=Profile%20views&color=0e75b6&style=flat" alt="joeyr05" /> </p>
 
